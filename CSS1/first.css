@@ -1,0 +1,41 @@
+h2{
+    color: rgb(208, 21, 21);
+
+}
+
+h3{
+    color: rgb(212, 17, 17);
+    font-style: italic;
+}
+
+ol li{
+    color: rgb(126, 19, 19);
+}
+
+h4{
+    color: rgb(222, 36, 36);
+    font-size: 20px;
+    font-style: italic;
+}
+
+ul li{
+    color: rgb(105, 10, 10);
+    letter-spacing: 6px;
+}
+
+p{
+    color: rgb(108, 8, 8);
+    font-size: 19px;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(220, 15, 15);
+    background-color: yellow;
+    font-style: italic;
+}
+
+span{
+    background-color: yellow;
+    font-weight: bold;
+}
